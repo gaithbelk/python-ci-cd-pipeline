@@ -1,6 +1,3 @@
-
-import sys
-sys.path.append('../')
 from app import index
 
 def test_index():
